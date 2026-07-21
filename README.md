@@ -105,4 +105,9 @@ The result below demonstrates the temporal temperature distribution. It effectiv
 ### 5. Critical Reflection & Future Advancement
 - **Modeling Strategy**: A transient simulation was selected over a steady-state analysis to capture the dynamic thermal response of the reactor core during power ramp-up phases. This ensures that the system's thermal lag and peak transient temperatures—which are critical for safety assessment—are accurately evaluated.
 - **Thermal Performance & Scope Evolution**: An Equivalent Solid Model was implemented to simulate the thermal behavior of the reactor coolant, bypassing explicit CFD fluid flow analysis. While the initial engineering framework envisioned explicit coolant channel optimization (Topic A), practical constraints led to this refined thermal-conduction focus (Topic B).
-- **Future Work & Compliance Note**: Future iterations will incorporate Conjugate Heat Transfer (CHT) simulations to account for actual fluid dynamics. *Additionally, due to strict corporate IP security policies and Non-Disclosure Agreements (NDAs), this repository represents a generalized, independent engineering draft simulation.*
+- **Future Work & Compliance Note**: Future iterations will integrate advanced
+  * coolant channel optimization (Topic A)
+  * ECCS pipeline flow resistance (Topic B)
+  * Nusselt number-based heat exchanger fin efficiency (Topic C)  
+  into comprehensive Conjugate Heat Transfer (CHT) simulations.
+  *"Additionally, due to strict corporate IP security policies and Non-Disclosure Agreements (NDAs), this repository represents a generalized, independent engineering draft simulation.*
