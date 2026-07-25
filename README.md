@@ -111,3 +111,7 @@ The result below demonstrates the temporal temperature distribution. It effectiv
   * Nusselt number-based heat exchanger fin efficiency (Topic C)  
   into comprehensive Conjugate Heat Transfer (CHT) simulations.
   *"Additionally, due to strict corporate IP security policies and Non-Disclosure Agreements (NDAs), this repository represents a generalized, independent engineering draft simulation.*
+
+### 6. References & Theoretical Foundation/Citation
+* The theoretical framework and fundamental principles governing the fluid dynamics and numerical methodologies in this study were referenced from:
+  * **Versteeg, H. K., & Malalasekera, W. (2007).** *An Introduction to Computational Fluid Dynamics: The Finite Volume Method* (2nd ed.). Pearson Education.
