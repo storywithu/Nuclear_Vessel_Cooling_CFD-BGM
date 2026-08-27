@@ -115,3 +115,8 @@ The result below demonstrates the temporal temperature distribution. It effectiv
 ### 6. References & Theoretical Foundation/Citation
 * The theoretical framework and fundamental principles governing the fluid dynamics and numerical methodologies in this study were referenced from:
   * **Versteeg, H. K., & Malalasekera, W. (2007).** *An Introduction to Computational Fluid Dynamics: The Finite Volume Method* (2nd ed.). Pearson Education.
+* BGM Personally, I love this book! Almost all of my CFD work is based on its theory
+  
+<img width="500" height="600" alt="20260618_131404" src="https://github.com/user-attachments/assets/d129b767-17bd-45fd-80d1-87f534a05df6" />
+<img width="500" height="600" alt="20260618_131319" src="https://github.com/user-attachments/assets/519801e7-7eac-46f7-9bcf-b698f829a518" />
+
